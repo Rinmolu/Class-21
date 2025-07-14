@@ -1,0 +1,9 @@
+list1=[]
+print(list1)
+numbers=[5,10,15,20,25]
+print(numbers)
+product=[5,10,15,20]*2
+print(product)
+list2=[10,20,30,40,50]
+list2=list2[::-1]
+print(list2)
